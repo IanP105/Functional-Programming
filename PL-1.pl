@@ -1,4 +1,4 @@
-% Desc.
+% Prolog 1
 
 %%factorial definition
 factorial(0,1).
