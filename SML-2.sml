@@ -1,5 +1,5 @@
 (* 
-Desc.
+SML 2
 *)
 
 (* #0 - length helper*)
