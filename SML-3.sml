@@ -1,5 +1,5 @@
 (* 
-Desc.
+SML 3
 *)
 
 (* #1 - duplist *)
