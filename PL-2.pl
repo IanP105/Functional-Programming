@@ -1,4 +1,4 @@
-% Desc.
+% Prolog 2
 
 %% You can fill the 4 gallon jug from the faucet, taking you from a
 %% problem state [X,Y] to a problem state [4,Y],
